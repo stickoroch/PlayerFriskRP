@@ -1,0 +1,18 @@
+friskDistance: 2.0
+friskTime: 3
+susIsNotOnline: '&cЧеловек, с таким именем - не найден!'
+uContFriskUs: '&cВы не можете обыскать самого себя!'
+titleOfInv: '&7Инвентарь &6%player%'
+titleOfList: '!n&8- &cИзменения с вашим инвентарём:'
+progressBarSus: '&6Вас обыскивают, не двигайтесь! &7- &c%time%'
+progressBarFr: '&6Идёт обыск, не двигайтесь! &7- &c%time%'
+friskProcessSus: '&4Идёт обыск, не двигайтесь!'
+zalupafrisk: '&4Обыск сорван!'
+addedItem: '&7Добавлено &8- &6%itemName% &fx%amount%'
+removedItem: '&7Изъято &8- &6%itemName% &fx%amount%'
+enchFormat: ' &e%ench% &7%lvl%&6&8'
+friskMenu: '&6Обыскать &c%player%'
+friskRadiusClear: '&6Рядом никого нет!'
+hoverMessages: '&6Нажмите, чтобы обыскать игрока &c%player%&r'
+suspectInProcess: '&cЭтого игрока уже обыскивают!'
+playerForFriskTitle: 'оглавление для посика людей'

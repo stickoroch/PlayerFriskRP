@@ -1,0 +1,14 @@
+name: PlayerFriskRP
+version: '${project.version}'
+main: stickoroch.playerfriskrp.PlayerFriskRP
+api-version: 1.18
+authors: [ stickoroch ]
+description: RP plugin
+commands:
+  frisk:
+    permission: frisk.opportunity
+    permission-message: §cУ вас нет прав для выполнения этой команды!§r
+    usage: /<command> [player]
+  reload:
+    permission: frisk.reload
+    permission-message: §cУ вас нет прав для выполнения этой команды!§r
